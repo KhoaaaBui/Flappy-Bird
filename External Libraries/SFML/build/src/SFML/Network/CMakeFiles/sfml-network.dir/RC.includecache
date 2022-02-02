@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/namei/OneDrive - Washington State University (email.wsu.edu)/CPT_S 122 Fall 2019/Flappy Bird/External Libraries/SFML/build/src/SFML/Network/sfml-network.rc
+winresrc.h
+C:/Users/namei/OneDrive - Washington State University (email.wsu.edu)/CPT_S 122 Fall 2019/Flappy Bird/External Libraries/SFML/build/src/SFML/Network/winresrc.h
+
